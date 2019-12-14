@@ -6,7 +6,9 @@ This is the github pages for Kook Heng.
 ## Project Executable file
 Download and rename this file from AlgoScreen.txt to AlgoSreen.jar as some of the browser or antivirus might block the download of  file type .jar
 
-[Download Here](https://github.com/ursa37/ursa37.github.io/blob/master/AlgoScreen.txt). 
+[GITHUB Download](https://github.com/ursa37/ursa37.github.io/blob/master/AlgoScreen.txt). 
+
+[Download Here](https://github.com/ursa37/ursa37.github.io/raw/master/AlgoScreen.txt). 
 
 ## Project Source File
 
