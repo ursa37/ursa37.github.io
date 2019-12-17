@@ -14,21 +14,9 @@ Sample File
 Download and rename this file from AlgoScreen.txt to AlgoSreen.jar as some of the browser or antivirus might block the download of  file type .jar.
 [program](https://github.com/ursa37/ursa37.github.io/settings). 
 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ursa37/ursa37.github.io/settings). 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [settings](https://github.com/ursa37/ursa37.github.io/settings). 
 
 ### Jekyll Themes
 
