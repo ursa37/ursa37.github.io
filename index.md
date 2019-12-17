@@ -28,7 +28,7 @@ Download and rename this file from AlgoScreen.txt to AlgoSreen.jar as some of th
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ursa37/ursa37.github.io/settings). 
 
 ### Jekyll Themes
 
