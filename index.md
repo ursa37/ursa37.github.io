@@ -11,7 +11,7 @@ This word document contain program description, limitation and assumption of  th
 [Download Here](https://github.com/ursa37/ursa37.github.io/raw/master/Description.docx). 
 
 Screenshot
-[Image](https://github.com/ursa37/ursa37.github.io/raw/master/ScreenShot.jpg)
+![Image](https://github.com/ursa37/ursa37.github.io/raw/master/ScreenShot.jpg)
 
 
 
